@@ -25,5 +25,6 @@ or
 may be used in the server name by using the codes from here: http://www.minecraftwiki.net/wiki/Formatting_codes Bold text works too
 
 ### Instances:
+> Please note, these instances are unofficial, and may use code different from this repo
  * MCLive: http://status.mclive.eu/
  
